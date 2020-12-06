@@ -16,6 +16,8 @@ app.use('/admin/api/v1', routeAdmin)
 
 app.use(express.static('public'))
 
-app.listen(process.env.PORT || 8000, () => { 
-    console.log('Server running')
-})
+// app.listen(process.env.PORT || 8000, () => { 
+//     console.log('Server running')
+// })
+
+app.listen(process.env.PORT, ()=> console.log('Server runnning out'));
