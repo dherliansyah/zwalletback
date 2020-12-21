@@ -1,20 +1,28 @@
-<h1 align="center">Zwallet API</h1>
+<h1 align="center">
+  <a href="#">Zwallet</a>
+</h1>
 
+<p align="center"><b>Aplikasi dompet digital</b></p>
 <p align="center"><b>Apapun pengeluarannya pakai Zwallet in aja!</b></p>
 <p align="center"><b>#zwalletaja</b></p>
 
+## About
+<p> This Project build with : </p>
+- Node JS
+- Express JS
+- Mysql
+
 ## Tools
 
-- Node Js
-- Express JS
-- React JS
-- MySQL
+- Visual Studio Code
+- Postman
 
-## How to use
+## How To Install
 
-$ npm install
-
-$ nodemon
+- git clone https://github.com/dherliansyah/zwalletback
+- cd zwalletback
+- yarn
+- nodemon
 
 
 ## Docs API POSTMAN
